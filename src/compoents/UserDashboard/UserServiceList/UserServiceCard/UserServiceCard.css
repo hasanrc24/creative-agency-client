@@ -1,0 +1,28 @@
+.user-service-card{
+    border-radius: 20px !important;
+    border: none !important;
+}
+.status-pending{
+    background-color: #FFE3E3;
+    color: #FF4545;
+    padding: 10px 20px;
+    height: 100%;
+    border-radius: 5px;
+    font-size: 13px;
+}
+.status-ongoing{
+    background-color: #FFF3DD;
+    color: #FFBD3E;
+    padding: 10px 20px;
+    height: 100%;
+    border-radius: 5px;
+    font-size: 13px;
+}
+.status-done{
+    background-color: #C6FFE0;
+    color: #009444;
+    padding: 10px 20px;
+    height: 100%;
+    border-radius: 5px;
+    font-size: 13px;
+}

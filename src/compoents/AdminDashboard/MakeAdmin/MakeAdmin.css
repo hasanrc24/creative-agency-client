@@ -1,0 +1,19 @@
+.make-admin{
+    background-color: #F4F7FC;
+    width: 100%;
+    min-height: 90vh;
+    margin: 0 !important;
+    padding: 30px;
+}
+.make-admin-bg{
+    padding: 30px;
+    background-color: white;  
+    border-radius: 20px;
+}
+.make-admin-btn{
+    margin-top: 30px;
+    display: inline-block;
+    background-color: #009444 !important;
+    border: none !important;
+    padding: 8px 25px !important;
+}

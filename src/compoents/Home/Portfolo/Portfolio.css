@@ -1,0 +1,29 @@
+.portfolio-bg{
+    background-color: #111430;
+    width: 100%;
+    height: 480px;
+    padding-top: 80px;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.carousel-class{
+    width: 100%;
+}
+.caro-item{
+    height: 300px;
+    width: 300px;
+    padding: 30px;
+}
+.caro-img{
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}
+.slick-dots li button:before{
+    color: #242A65 !important;
+    font-size: 12px !important;
+    width: 90%;
+}
+.slick-dots li.slick-active button:before{
+    color: #FBD062 !important;
+}

@@ -1,0 +1,22 @@
+.footer-section{
+    background-color: #FBD062;
+    width: 100%;
+    height: 110%;
+}
+.copyright-txt{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+    padding-bottom: 30px;
+    position: relative;
+}
+.arrow{
+    background-color: black;
+    border-radius: 5px;
+    display: flex;
+    bottom: 50px;
+    justify-content: flex-end;
+    padding: 5px;
+    color: white;
+    cursor: pointer;
+}

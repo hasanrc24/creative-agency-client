@@ -1,0 +1,15 @@
+.links{
+    color: black !important;
+    text-decoration: none;
+    cursor: pointer;
+}
+.navbar-nav a:hover{
+    text-decoration: underline;
+    text-decoration-color: #7AB259;
+    text-decoration-thickness: 2px;
+}
+.active{
+    text-decoration: underline !important;
+    text-decoration-color: #7AB259 !important;
+    text-decoration-thickness: 2px !important;
+}

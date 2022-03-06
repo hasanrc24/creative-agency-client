@@ -1,0 +1,8 @@
+.service-card-design{
+    border: none !important;
+    border-radius: 8px !important;
+    transition: 0.5s ease;
+}
+.service-card-design:hover{
+    box-shadow: 0 1px 30px rgba(0, 0, 0, .15);
+}

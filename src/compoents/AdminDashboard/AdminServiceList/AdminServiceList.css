@@ -1,0 +1,36 @@
+.admin-service-list{
+    background-color: #F4F7FC;
+    width: 100%;
+    min-height: 90vh;
+    margin: 0 !important;
+    padding: 30px;
+}
+.service-list-bg{
+    padding: 30px;
+    background-color: white;  
+    border-radius: 20px;
+}
+.service-list-table{
+    background-color: white;
+}
+.table>:not(:first-child){
+    border: none !important;
+}
+.tbody, td, tfoot, th, thead, tr{
+    border: none !important;
+}
+.service-list-th > tr > th {
+    background-color: #F5F6FA;
+    color: #686868;
+    padding: 13px;
+    font-size: 14px;
+    font-weight: initial  !important;
+}
+th:first-child, td:first-child {
+    border-top-left-radius: 10px; 
+    border-bottom-left-radius: 10px;
+}
+th:last-child, td:last-child {
+    border-bottom-right-radius: 10px; 
+    border-top-right-radius: 10px; 
+}
